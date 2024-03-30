@@ -3,6 +3,7 @@ Steps to execute this calculator:
 Download the entire code
 <br>
 Open up the index.html.
+<br>
 Technologies used:
 HTML
 CSS [style/Presentation]
